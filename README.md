@@ -9,6 +9,9 @@ This is new mark!
 
 ## 安装下载
 
+- 下载地址 https://github.com/SusuDOS/fast-cache/releases
+
+
 
 ## 快速使用
 

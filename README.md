@@ -13,8 +13,9 @@ This is new mark!
 ## 快速使用
 
 简单接入文档
-- 使用文档
-- 二次开发文档  
+
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/README.md) 
 
 ## 交流&提问
 

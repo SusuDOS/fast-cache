@@ -1,0 +1,2 @@
+# fast-cache
+protect memorary!

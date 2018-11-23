@@ -9,7 +9,7 @@ This is new mark!
 
 ## 安装下载
 
-- 下载地址 https://github.com/SusuDOS/fast-cache/releases
+- 下载地址 [https://github.com/SusuDOS/fast-cache/releases](https://github.com/SusuDOS/fast-cache/releases)
 
 
 

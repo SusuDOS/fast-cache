@@ -1,3 +1,6 @@
+﻿# 特别说明：
+# 由于使用的是 --save-dev安装，所以保证任意位置下载下来。
+# 将项目的node模块添加到path路径可以直接使用，避免了个新阶段，插件不一样会出现兼容性的问题。
 # Logs
 logs
 *.log
@@ -33,7 +36,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+# node_modules/ �����ֶ�ע�͡�
 jspm_packages/
 
 # TypeScript v1 declaration files
